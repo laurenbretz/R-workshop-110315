@@ -7,4 +7,4 @@ Slides: https://goo.gl/y4nCcv
 
 Survey: http://goo.gl/forms/Bt6fnpNkRJ
 
-Download R: https://cran.rstudio.com/
+Install R: https://cran.rstudio.com/
