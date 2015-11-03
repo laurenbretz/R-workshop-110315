@@ -10,7 +10,7 @@ Survey: http://goo.gl/forms/Bt6fnpNkRJ
 Install R: https://cran.rstudio.com/
 
 
-MORE RESOURCES
+More Resources
 
 Free, easily navigable text resource: http://www.r-tutor.com/r-introduction
 
