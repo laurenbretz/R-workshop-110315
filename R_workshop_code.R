@@ -90,5 +90,19 @@ teststat
 #The amount of error we are willing to accept (in this case, 5%)
 alpha = 0.05 
 #critical value for our indicated alpha and n
-t_half_alpha = qt(1-alpha/2, df=n-1) #if teststat is outside of this range, mean1 & mean2 are different
+t_half_alpha = qt(1-alpha/2, df=n-1)
+#if teststat is outside of this range, mean1 & mean2 are different
 c(-t_half_alpha,t_half_alpha)
+
+#declares regression equation based on dependent variable (act), independent variable (pizzaCheese), and data (mydata)
+regAct = lm(formula = act ~ pizzaCheese, data = mydata)
+#outputs regression coefficients and statistics
+summary(regAct)
+
+#declares regression equation with multiple independent variables (pizzaCheese and gpa)
+regAct2 = lm(formula = act ~ pizzaCheese + gpa, data = mydata)
+summary(regAct2)
+
+#declares regression equation with many independent variables
+regAct3 = lm(formula = act ~ pizzaCheese + pizzaHI + pizzaMeat + pizzaPepp + sportFootball + animalCats + worldendZombie, data = mydata)
+summary(regAct3)
