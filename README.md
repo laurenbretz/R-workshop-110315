@@ -17,6 +17,6 @@ Slides: https://goo.gl/y4nCcv
 
 More Resources
 
-Free, easily navigable text resource: http://www.r-tutor.com/r-introduction
+Free, easily navigable text resource for basic R commands: http://www.r-tutor.com/r-introduction
 
 Youtube playlist of 45 short intro R tutorials: https://www.youtube.com/playlist?list=PLqzoL9-eJTNBDdKgJgJzaQcY6OXmsXAHU
