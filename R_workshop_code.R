@@ -87,3 +87,8 @@ s = sd(mydata$gpa)
 teststat = (mean1 - mean2)/(s/sqrt(n))
 #display the value of our test statistic
 teststat
+#The amount of error we are willing to accept (in this case, 5%)
+alpha = 0.05 
+#critical value for our indicated alpha and n
+t_half_alpha = qt(1-alpha/2, df=n-1) #if teststat is outside of this range, mean1 & mean2 are different
+c(-t_half_alpha,t_half_alpha)
