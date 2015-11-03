@@ -3,13 +3,14 @@ An Introduction to Data Analysis with R
 
 Spartan Hackers workshop 11-3-15
 
-<br>
+Slides: https://goo.gl/y4nCcv
 
-<b>Slides:</b> https://goo.gl/y4nCcv
+<br>
 
 <b>Survey:</b> http://goo.gl/forms/Bt6fnpNkRJ
 
 <b>Install R on OS X (Mac):</b> https://cran.rstudio.com/bin/macosx/
+
 <b>Install R on Windows:</b> https://cran.rstudio.com/bin/windows/base/
 
 <br>
