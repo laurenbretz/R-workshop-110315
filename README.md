@@ -3,14 +3,15 @@ An Introduction to Data Analysis with R
 
 Spartan Hackers workshop 11-3-15
 
-Slides: https://goo.gl/y4nCcv
+<b>Slides:</b> https://goo.gl/y4nCcv
 
-Survey: http://goo.gl/forms/Bt6fnpNkRJ
+<b>Survey:</b> http://goo.gl/forms/Bt6fnpNkRJ
 
-Install R: https://cran.rstudio.com/
+<b>Install R:</b> https://cran.rstudio.com/
 
+<br>
 
-More Resources
+<u>More Resources</u>
 
 Free, easily navigable text resource: http://www.r-tutor.com/r-introduction
 
